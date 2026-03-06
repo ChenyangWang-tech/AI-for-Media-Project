@@ -1,0 +1,16 @@
+python: 3.12.7.final.0
+
+Torchvision: 0.15.2
+
+Scikit-learn: 1.2.2
+
+NumPy: 1.23.5
+
+Matplotlib: 3.7.1
+
+Streamlit: 1.24.0
+
+OpenCV: 4.7.0
+
+Pygame: 2.3.0
+
